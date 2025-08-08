@@ -1,0 +1,1 @@
+# Impetus-Training--Global-Earthquake-Data-Analytics-Using-Python-and-MySQL
